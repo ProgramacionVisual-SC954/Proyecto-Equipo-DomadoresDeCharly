@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("GestionEmpleadosHoteles"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad760b4949eb15525e3e0dc2ccf1ab58bee4e64c"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("GestionEmpleadosHoteles"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("GestionEmpleadosHoteles"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

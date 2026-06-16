@@ -8,19 +8,24 @@
     "net8.0-windows": []
   },
   "packageFolders": {
-    "C:\\Users\\vick-\\.nuget\\packages\\": {}
+    "C:\\Users\\shido\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vick-\\source\\repos\\GestionEmpleadosHoteles\\GestionEmpleadosHoteles\\GestionEmpleadosHoteles.vbproj",
+      "projectUniqueName": "C:\\Users\\shido\\source\\repos\\Proyecto-Equipo-DomadoresDeCharly\\version 2\\GestionEmpleadosHoteles\\GestionEmpleadosHoteles\\GestionEmpleadosHoteles.vbproj",
       "projectName": "GestionEmpleadosHoteles",
-      "projectPath": "C:\\Users\\vick-\\source\\repos\\GestionEmpleadosHoteles\\GestionEmpleadosHoteles\\GestionEmpleadosHoteles.vbproj",
-      "packagesPath": "C:\\Users\\vick-\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vick-\\source\\repos\\GestionEmpleadosHoteles\\GestionEmpleadosHoteles\\obj\\",
+      "projectPath": "C:\\Users\\shido\\source\\repos\\Proyecto-Equipo-DomadoresDeCharly\\version 2\\GestionEmpleadosHoteles\\GestionEmpleadosHoteles\\GestionEmpleadosHoteles.vbproj",
+      "packagesPath": "C:\\Users\\shido\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\shido\\source\\repos\\Proyecto-Equipo-DomadoresDeCharly\\version 2\\GestionEmpleadosHoteles\\GestionEmpleadosHoteles\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\vick-\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\shido\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,6 +33,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -72,7 +78,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
