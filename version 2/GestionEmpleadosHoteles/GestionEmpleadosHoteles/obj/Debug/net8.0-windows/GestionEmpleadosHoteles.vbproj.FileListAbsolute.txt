@@ -14,3 +14,21 @@ C:\Users\vick-\source\repos\GestionEmpleadosHoteles\GestionEmpleadosHoteles\obj\
 C:\Users\vick-\source\repos\GestionEmpleadosHoteles\GestionEmpleadosHoteles\obj\Debug\net8.0-windows\GestionEmpleadosHoteles.pdb
 C:\Users\vick-\source\repos\GestionEmpleadosHoteles\GestionEmpleadosHoteles\obj\Debug\net8.0-windows\GestionEmpleadosHoteles.genruntimeconfig.cache
 C:\Users\vick-\source\repos\GestionEmpleadosHoteles\GestionEmpleadosHoteles\obj\Debug\net8.0-windows\ref\GestionEmpleadosHoteles.dll
+C:\Users\shido\source\repos\Proyecto-Equipo-DomadoresDeCharly\version 2\GestionEmpleadosHoteles\GestionEmpleadosHoteles\bin\Debug\net8.0-windows\GestionEmpleadosHoteles.exe
+C:\Users\shido\source\repos\Proyecto-Equipo-DomadoresDeCharly\version 2\GestionEmpleadosHoteles\GestionEmpleadosHoteles\bin\Debug\net8.0-windows\GestionEmpleadosHoteles.deps.json
+C:\Users\shido\source\repos\Proyecto-Equipo-DomadoresDeCharly\version 2\GestionEmpleadosHoteles\GestionEmpleadosHoteles\bin\Debug\net8.0-windows\GestionEmpleadosHoteles.runtimeconfig.json
+C:\Users\shido\source\repos\Proyecto-Equipo-DomadoresDeCharly\version 2\GestionEmpleadosHoteles\GestionEmpleadosHoteles\bin\Debug\net8.0-windows\GestionEmpleadosHoteles.dll
+C:\Users\shido\source\repos\Proyecto-Equipo-DomadoresDeCharly\version 2\GestionEmpleadosHoteles\GestionEmpleadosHoteles\bin\Debug\net8.0-windows\GestionEmpleadosHoteles.pdb
+C:\Users\shido\source\repos\Proyecto-Equipo-DomadoresDeCharly\version 2\GestionEmpleadosHoteles\GestionEmpleadosHoteles\obj\Debug\net8.0-windows\GestionEmpleadosHoteles.Form1.resources
+C:\Users\shido\source\repos\Proyecto-Equipo-DomadoresDeCharly\version 2\GestionEmpleadosHoteles\GestionEmpleadosHoteles\obj\Debug\net8.0-windows\GestionEmpleadosHoteles.grpPago.resources
+C:\Users\shido\source\repos\Proyecto-Equipo-DomadoresDeCharly\version 2\GestionEmpleadosHoteles\GestionEmpleadosHoteles\obj\Debug\net8.0-windows\GestionEmpleadosHoteles.vbproj.GenerateResource.cache
+C:\Users\shido\source\repos\Proyecto-Equipo-DomadoresDeCharly\version 2\GestionEmpleadosHoteles\GestionEmpleadosHoteles\obj\Debug\net8.0-windows\GestionEmpleadosHoteles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shido\source\repos\Proyecto-Equipo-DomadoresDeCharly\version 2\GestionEmpleadosHoteles\GestionEmpleadosHoteles\obj\Debug\net8.0-windows\GestionEmpleadosHoteles.AssemblyInfoInputs.cache
+C:\Users\shido\source\repos\Proyecto-Equipo-DomadoresDeCharly\version 2\GestionEmpleadosHoteles\GestionEmpleadosHoteles\obj\Debug\net8.0-windows\GestionEmpleadosHoteles.AssemblyInfo.vb
+C:\Users\shido\source\repos\Proyecto-Equipo-DomadoresDeCharly\version 2\GestionEmpleadosHoteles\GestionEmpleadosHoteles\obj\Debug\net8.0-windows\GestionEmpleadosHoteles.vbproj.CoreCompileInputs.cache
+C:\Users\shido\source\repos\Proyecto-Equipo-DomadoresDeCharly\version 2\GestionEmpleadosHoteles\GestionEmpleadosHoteles\obj\Debug\net8.0-windows\GestionEmpleadosHoteles.sourcelink.json
+C:\Users\shido\source\repos\Proyecto-Equipo-DomadoresDeCharly\version 2\GestionEmpleadosHoteles\GestionEmpleadosHoteles\obj\Debug\net8.0-windows\GestionEmpleadosHoteles.dll
+C:\Users\shido\source\repos\Proyecto-Equipo-DomadoresDeCharly\version 2\GestionEmpleadosHoteles\GestionEmpleadosHoteles\obj\Debug\net8.0-windows\refint\GestionEmpleadosHoteles.dll
+C:\Users\shido\source\repos\Proyecto-Equipo-DomadoresDeCharly\version 2\GestionEmpleadosHoteles\GestionEmpleadosHoteles\obj\Debug\net8.0-windows\GestionEmpleadosHoteles.pdb
+C:\Users\shido\source\repos\Proyecto-Equipo-DomadoresDeCharly\version 2\GestionEmpleadosHoteles\GestionEmpleadosHoteles\obj\Debug\net8.0-windows\GestionEmpleadosHoteles.genruntimeconfig.cache
+C:\Users\shido\source\repos\Proyecto-Equipo-DomadoresDeCharly\version 2\GestionEmpleadosHoteles\GestionEmpleadosHoteles\obj\Debug\net8.0-windows\ref\GestionEmpleadosHoteles.dll

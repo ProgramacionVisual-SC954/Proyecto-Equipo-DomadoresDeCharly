@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\vick-\\source\\repos\\GestionEmpleadosHoteles\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D9D9DFF4-CB58-4460-83B4-17D6A8CF05F6}|GestionEmpleadosHoteles\\GestionEmpleadosHoteles.vbproj|c:\\users\\vick-\\source\\repos\\gestionempleadoshoteles\\gestionempleadoshoteles\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{D9D9DFF4-CB58-4460-83B4-17D6A8CF05F6}|GestionEmpleadosHoteles\\GestionEmpleadosHoteles.vbproj|solutionrelative:gestionempleadoshoteles\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+      "AbsoluteMoniker": "D:0:0:{DE37AF43-0E9A-40FC-8DCF-38481645EEAA}|GestionEmpleadosHoteles\\GestionEmpleadosHoteles.vbproj|c:\\users\\vick-\\source\\repos\\gestionempleadoshoteles\\gestionempleadoshoteles\\modulovalidaciones.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DE37AF43-0E9A-40FC-8DCF-38481645EEAA}|GestionEmpleadosHoteles\\GestionEmpleadosHoteles.vbproj|solutionrelative:gestionempleadoshoteles\\modulovalidaciones.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9D9DFF4-CB58-4460-83B4-17D6A8CF05F6}|GestionEmpleadosHoteles\\GestionEmpleadosHoteles.vbproj|c:\\users\\vick-\\source\\repos\\gestionempleadoshoteles\\gestionempleadoshoteles\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{D9D9DFF4-CB58-4460-83B4-17D6A8CF05F6}|GestionEmpleadosHoteles\\GestionEmpleadosHoteles.vbproj|solutionrelative:gestionempleadoshoteles\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{DE37AF43-0E9A-40FC-8DCF-38481645EEAA}|GestionEmpleadosHoteles\\GestionEmpleadosHoteles.vbproj|c:\\users\\vick-\\source\\repos\\gestionempleadoshoteles\\gestionempleadoshoteles\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{DE37AF43-0E9A-40FC-8DCF-38481645EEAA}|GestionEmpleadosHoteles\\GestionEmpleadosHoteles.vbproj|solutionrelative:gestionempleadoshoteles\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72E7EDC8-D8BE-46FC-A1D2-2E776CABC5DF}|Elementos de la soluci\u00F3n{72E7EDC8-D8BE-46FC-A1D2-2E776CABC5DF}|C:\\Users\\vick-\\source\\repos\\GestionEmpleadosHoteles\\Empleado.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{72E7EDC8-D8BE-46FC-A1D2-2E776CABC5DF}|Elementos de la soluci\u00F3n{72E7EDC8-D8BE-46FC-A1D2-2E776CABC5DF}|solutionrelative:Empleado.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{DE37AF43-0E9A-40FC-8DCF-38481645EEAA}|GestionEmpleadosHoteles\\GestionEmpleadosHoteles.vbproj|c:\\users\\vick-\\source\\repos\\gestionempleadoshoteles\\gestionempleadoshoteles\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DE37AF43-0E9A-40FC-8DCF-38481645EEAA}|GestionEmpleadosHoteles\\GestionEmpleadosHoteles.vbproj|solutionrelative:gestionempleadoshoteles\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE37AF43-0E9A-40FC-8DCF-38481645EEAA}|GestionEmpleadosHoteles\\GestionEmpleadosHoteles.vbproj|c:\\users\\vick-\\source\\repos\\gestionempleadoshoteles\\gestionempleadoshoteles\\formdetalle.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{DE37AF43-0E9A-40FC-8DCF-38481645EEAA}|GestionEmpleadosHoteles\\GestionEmpleadosHoteles.vbproj|solutionrelative:gestionempleadoshoteles\\formdetalle.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{254AFEB7-0329-AF49-FB51-15B2E337EB20}|Elementos de la soluci\u00F3n{254AFEB7-0329-AF49-FB51-15B2E337EB20}|C:\\Users\\vick-\\source\\repos\\GestionEmpleadosHoteles\\Empleado.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{254AFEB7-0329-AF49-FB51-15B2E337EB20}|Elementos de la soluci\u00F3n{254AFEB7-0329-AF49-FB51-15B2E337EB20}|solutionrelative:Empleado.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,33 +38,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Empleado.vb",
-              "DocumentMoniker": "C:\\Users\\vick-\\source\\repos\\GestionEmpleadosHoteles\\Empleado.vb",
-              "RelativeDocumentMoniker": "Empleado.vb",
-              "ToolTip": "C:\\Users\\vick-\\source\\repos\\GestionEmpleadosHoteles\\Empleado.vb",
-              "RelativeToolTip": "Empleado.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ModuloValidaciones.vb",
+              "DocumentMoniker": "C:\\Users\\vick-\\source\\repos\\GestionEmpleadosHoteles\\GestionEmpleadosHoteles\\ModuloValidaciones.vb",
+              "RelativeDocumentMoniker": "GestionEmpleadosHoteles\\ModuloValidaciones.vb",
+              "ToolTip": "C:\\Users\\vick-\\source\\repos\\GestionEmpleadosHoteles\\GestionEmpleadosHoteles\\ModuloValidaciones.vb",
+              "RelativeToolTip": "GestionEmpleadosHoteles\\ModuloValidaciones.vb",
+              "ViewState": "AgIAACYAAAAAAAAAAAAiwDQAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-06-09T22:36:36.214Z",
+              "WhenOpened": "2026-06-15T15:37:37.848Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "FormDetalle.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\vick-\\source\\repos\\GestionEmpleadosHoteles\\GestionEmpleadosHoteles\\FormDetalle.vb",
+              "RelativeDocumentMoniker": "GestionEmpleadosHoteles\\FormDetalle.vb",
+              "ToolTip": "C:\\Users\\vick-\\source\\repos\\GestionEmpleadosHoteles\\GestionEmpleadosHoteles\\FormDetalle.vb [Dise\u00F1o]",
+              "RelativeToolTip": "GestionEmpleadosHoteles\\FormDetalle.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-06-15T15:29:19.8Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Form1.vb",
               "DocumentMoniker": "C:\\Users\\vick-\\source\\repos\\GestionEmpleadosHoteles\\GestionEmpleadosHoteles\\Form1.vb",
               "RelativeDocumentMoniker": "GestionEmpleadosHoteles\\Form1.vb",
               "ToolTip": "C:\\Users\\vick-\\source\\repos\\GestionEmpleadosHoteles\\GestionEmpleadosHoteles\\Form1.vb",
               "RelativeToolTip": "GestionEmpleadosHoteles\\Form1.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2026-06-09T22:22:50.953Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.vb [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\vick-\\source\\repos\\GestionEmpleadosHoteles\\GestionEmpleadosHoteles\\Form1.vb",
               "RelativeDocumentMoniker": "GestionEmpleadosHoteles\\Form1.vb",
@@ -65,6 +85,19 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2026-06-09T21:11:48.14Z",
               "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Empleado.vb",
+              "DocumentMoniker": "C:\\Users\\vick-\\source\\repos\\GestionEmpleadosHoteles\\Empleado.vb",
+              "RelativeDocumentMoniker": "Empleado.vb",
+              "ToolTip": "C:\\Users\\vick-\\source\\repos\\GestionEmpleadosHoteles\\Empleado.vb",
+              "RelativeToolTip": "Empleado.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-06-09T22:36:36.214Z",
+              "EditorCaption": ""
             }
           ]
         }
