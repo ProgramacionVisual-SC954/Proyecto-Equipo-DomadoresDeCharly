@@ -11,12 +11,20 @@
       "RelativeMoniker": "D:0:0:{DE37AF43-0E9A-40FC-8DCF-38481645EEAA}|GestionEmpleadosHoteles\\GestionEmpleadosHoteles.vbproj|solutionrelative:gestionempleadoshoteles\\formdetalle.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE37AF43-0E9A-40FC-8DCF-38481645EEAA}|GestionEmpleadosHoteles\\GestionEmpleadosHoteles.vbproj|c:\\users\\shido\\source\\repos\\proyecto-equipo-domadoresdecharly\\version 2\\gestionempleadoshoteles\\gestionempleadoshoteles\\formdetalle.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{DE37AF43-0E9A-40FC-8DCF-38481645EEAA}|GestionEmpleadosHoteles\\GestionEmpleadosHoteles.vbproj|solutionrelative:gestionempleadoshoteles\\formdetalle.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DE37AF43-0E9A-40FC-8DCF-38481645EEAA}|GestionEmpleadosHoteles\\GestionEmpleadosHoteles.vbproj|c:\\users\\shido\\source\\repos\\proyecto-equipo-domadoresdecharly\\version 2\\gestionempleadoshoteles\\gestionempleadoshoteles\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{DE37AF43-0E9A-40FC-8DCF-38481645EEAA}|GestionEmpleadosHoteles\\GestionEmpleadosHoteles.vbproj|solutionrelative:gestionempleadoshoteles\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE37AF43-0E9A-40FC-8DCF-38481645EEAA}|GestionEmpleadosHoteles\\GestionEmpleadosHoteles.vbproj|c:\\users\\shido\\source\\repos\\proyecto-equipo-domadoresdecharly\\version 2\\gestionempleadoshoteles\\gestionempleadoshoteles\\gerente.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DE37AF43-0E9A-40FC-8DCF-38481645EEAA}|GestionEmpleadosHoteles\\GestionEmpleadosHoteles.vbproj|solutionrelative:gestionempleadoshoteles\\gerente.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE37AF43-0E9A-40FC-8DCF-38481645EEAA}|GestionEmpleadosHoteles\\GestionEmpleadosHoteles.vbproj|c:\\users\\shido\\source\\repos\\proyecto-equipo-domadoresdecharly\\version 2\\gestionempleadoshoteles\\gestionempleadoshoteles\\operario.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DE37AF43-0E9A-40FC-8DCF-38481645EEAA}|GestionEmpleadosHoteles\\GestionEmpleadosHoteles.vbproj|solutionrelative:gestionempleadoshoteles\\operario.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE37AF43-0E9A-40FC-8DCF-38481645EEAA}|GestionEmpleadosHoteles\\GestionEmpleadosHoteles.vbproj|c:\\users\\shido\\source\\repos\\proyecto-equipo-domadoresdecharly\\version 2\\gestionempleadoshoteles\\gestionempleadoshoteles\\formdetalle.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{DE37AF43-0E9A-40FC-8DCF-38481645EEAA}|GestionEmpleadosHoteles\\GestionEmpleadosHoteles.vbproj|solutionrelative:gestionempleadoshoteles\\formdetalle.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DE37AF43-0E9A-40FC-8DCF-38481645EEAA}|GestionEmpleadosHoteles\\GestionEmpleadosHoteles.vbproj|c:\\users\\shido\\source\\repos\\proyecto-equipo-domadoresdecharly\\version 2\\gestionempleadoshoteles\\gestionempleadoshoteles\\modulovalidaciones.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
@@ -34,16 +42,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "FormDetalle.vb [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\shido\\source\\repos\\Proyecto-Equipo-DomadoresDeCharly\\version 2\\GestionEmpleadosHoteles\\GestionEmpleadosHoteles\\FormDetalle.vb",
               "RelativeDocumentMoniker": "GestionEmpleadosHoteles\\FormDetalle.vb",
-              "ToolTip": "C:\\Users\\shido\\source\\repos\\Proyecto-Equipo-DomadoresDeCharly\\version 2\\GestionEmpleadosHoteles\\GestionEmpleadosHoteles\\FormDetalle.vb [Dise\u00F1o]*",
-              "RelativeToolTip": "GestionEmpleadosHoteles\\FormDetalle.vb [Dise\u00F1o]*",
+              "ToolTip": "C:\\Users\\shido\\source\\repos\\Proyecto-Equipo-DomadoresDeCharly\\version 2\\GestionEmpleadosHoteles\\GestionEmpleadosHoteles\\FormDetalle.vb [Dise\u00F1o]",
+              "RelativeToolTip": "GestionEmpleadosHoteles\\FormDetalle.vb [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2026-06-15T15:29:19.8Z",
               "IsPinned": true,
@@ -51,15 +59,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.vb",
-              "DocumentMoniker": "C:\\Users\\shido\\source\\repos\\Proyecto-Equipo-DomadoresDeCharly\\version 2\\GestionEmpleadosHoteles\\GestionEmpleadosHoteles\\Form1.vb",
-              "RelativeDocumentMoniker": "GestionEmpleadosHoteles\\Form1.vb",
-              "ToolTip": "C:\\Users\\shido\\source\\repos\\Proyecto-Equipo-DomadoresDeCharly\\version 2\\GestionEmpleadosHoteles\\GestionEmpleadosHoteles\\Form1.vb*",
-              "RelativeToolTip": "GestionEmpleadosHoteles\\Form1.vb*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Operario.vb",
+              "DocumentMoniker": "C:\\Users\\shido\\source\\repos\\Proyecto-Equipo-DomadoresDeCharly\\version 2\\GestionEmpleadosHoteles\\GestionEmpleadosHoteles\\Operario.vb",
+              "RelativeDocumentMoniker": "GestionEmpleadosHoteles\\Operario.vb",
+              "ToolTip": "C:\\Users\\shido\\source\\repos\\Proyecto-Equipo-DomadoresDeCharly\\version 2\\GestionEmpleadosHoteles\\GestionEmpleadosHoteles\\Operario.vb",
+              "RelativeToolTip": "GestionEmpleadosHoteles\\Operario.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-06-09T22:22:50.953Z",
+              "WhenOpened": "2026-06-17T16:28:09.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Gerente.vb",
+              "DocumentMoniker": "C:\\Users\\shido\\source\\repos\\Proyecto-Equipo-DomadoresDeCharly\\version 2\\GestionEmpleadosHoteles\\GestionEmpleadosHoteles\\Gerente.vb",
+              "RelativeDocumentMoniker": "GestionEmpleadosHoteles\\Gerente.vb",
+              "ToolTip": "C:\\Users\\shido\\source\\repos\\Proyecto-Equipo-DomadoresDeCharly\\version 2\\GestionEmpleadosHoteles\\GestionEmpleadosHoteles\\Gerente.vb",
+              "RelativeToolTip": "GestionEmpleadosHoteles\\Gerente.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-06-17T16:28:05.139Z",
               "EditorCaption": ""
             },
             {
@@ -72,13 +93,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\shido\\source\\repos\\Proyecto-Equipo-DomadoresDeCharly\\version 2\\GestionEmpleadosHoteles\\GestionEmpleadosHoteles\\Form1.vb",
+              "RelativeDocumentMoniker": "GestionEmpleadosHoteles\\Form1.vb",
+              "ToolTip": "C:\\Users\\shido\\source\\repos\\Proyecto-Equipo-DomadoresDeCharly\\version 2\\GestionEmpleadosHoteles\\GestionEmpleadosHoteles\\Form1.vb",
+              "RelativeToolTip": "GestionEmpleadosHoteles\\Form1.vb",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAowHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-06-09T22:22:50.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "FormDetalle.vb",
               "DocumentMoniker": "C:\\Users\\shido\\source\\repos\\Proyecto-Equipo-DomadoresDeCharly\\version 2\\GestionEmpleadosHoteles\\GestionEmpleadosHoteles\\FormDetalle.vb",
               "RelativeDocumentMoniker": "GestionEmpleadosHoteles\\FormDetalle.vb",
-              "ToolTip": "C:\\Users\\shido\\source\\repos\\Proyecto-Equipo-DomadoresDeCharly\\version 2\\GestionEmpleadosHoteles\\GestionEmpleadosHoteles\\FormDetalle.vb*",
-              "RelativeToolTip": "GestionEmpleadosHoteles\\FormDetalle.vb*",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAnwB4AAAAJAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\shido\\source\\repos\\Proyecto-Equipo-DomadoresDeCharly\\version 2\\GestionEmpleadosHoteles\\GestionEmpleadosHoteles\\FormDetalle.vb",
+              "RelativeToolTip": "GestionEmpleadosHoteles\\FormDetalle.vb",
+              "ViewState": "AgIAADgAAAAAAAAAAAAowF0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2026-06-16T02:12:37.32Z",
               "EditorCaption": ""
@@ -89,15 +123,15 @@
               "Title": "Form1.vb [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\shido\\source\\repos\\Proyecto-Equipo-DomadoresDeCharly\\version 2\\GestionEmpleadosHoteles\\GestionEmpleadosHoteles\\Form1.vb",
               "RelativeDocumentMoniker": "GestionEmpleadosHoteles\\Form1.vb",
-              "ToolTip": "C:\\Users\\shido\\source\\repos\\Proyecto-Equipo-DomadoresDeCharly\\version 2\\GestionEmpleadosHoteles\\GestionEmpleadosHoteles\\Form1.vb [Dise\u00F1o]*",
-              "RelativeToolTip": "GestionEmpleadosHoteles\\Form1.vb [Dise\u00F1o]*",
+              "ToolTip": "C:\\Users\\shido\\source\\repos\\Proyecto-Equipo-DomadoresDeCharly\\version 2\\GestionEmpleadosHoteles\\GestionEmpleadosHoteles\\Form1.vb [Dise\u00F1o]",
+              "RelativeToolTip": "GestionEmpleadosHoteles\\Form1.vb [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2026-06-09T21:11:48.14Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "ModuloValidaciones.vb",
               "DocumentMoniker": "C:\\Users\\shido\\source\\repos\\Proyecto-Equipo-DomadoresDeCharly\\version 2\\GestionEmpleadosHoteles\\GestionEmpleadosHoteles\\ModuloValidaciones.vb",
               "RelativeDocumentMoniker": "GestionEmpleadosHoteles\\ModuloValidaciones.vb",
@@ -105,12 +139,11 @@
               "RelativeToolTip": "GestionEmpleadosHoteles\\ModuloValidaciones.vb",
               "ViewState": "AgIAADcAAAAAAAAAAAAewEQAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-06-15T15:37:37.848Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-15T15:37:37.848Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Empleado.vb",
               "DocumentMoniker": "C:\\Users\\shido\\source\\repos\\Proyecto-Equipo-DomadoresDeCharly\\version 2\\GestionEmpleadosHoteles\\Empleado.vb",
               "RelativeDocumentMoniker": "Empleado.vb",
